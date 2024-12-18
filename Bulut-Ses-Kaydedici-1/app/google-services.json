@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979800569078",
+    "project_id": "seskaydedici-35cbe",
+    "storage_bucket": "seskaydedici-35cbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979800569078:android:6601e060dd0f2bc10b68d7",
+        "android_client_info": {
+          "package_name": "com.kaushalvasava.org.apps.voicerecorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2oi8PP3PzRmOP2HfLYQtU8bOIBPJyAJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979800569078:android:18d96d45369316280b68d7",
+        "android_client_info": {
+          "package_name": "com.seskaydedicisi.org.apps.voicerecorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2oi8PP3PzRmOP2HfLYQtU8bOIBPJyAJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
